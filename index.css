@@ -271,9 +271,16 @@ body{
   margin : 50px;
   padding : 50px;
   text-align:center;
+  background : url(assets/logo.jpeg) no-repeat;
+  background-size:cover;
+ }
+ .d6{
+  font-size: 50px;
+  margin : 50px;
+  padding : 50px;
+  text-align:center;
   background : url(assets/flipmart.jpg) no-repeat;
   background-size:100%;
- 
  }
  .d:hover{
   transform : scale(1.2);
